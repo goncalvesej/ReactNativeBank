@@ -1,2 +1,2 @@
 # ReactNativeBank
-A React Native sample project
+A dummy React Native App
